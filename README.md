@@ -1,2 +1,2 @@
 # best-repo-ever
-Hello, Earth!
+Hello, Mars!
