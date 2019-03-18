@@ -1,2 +1,2 @@
 # best-repo-ever
-Hello, Mars!  This is from new-branch-a.
+Hello, Earth!  This is from branch B.
